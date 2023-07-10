@@ -1,6 +1,8 @@
 # Automatic-permission-maintenance
 CobaltStrike 上线自动权限维持插件
 
+原地址：https://github.com/wgpsec/Automatic-permission-maintenance
+
 ## 计划任务（Schtasks）
 
 ### 主要修改下几个地方
